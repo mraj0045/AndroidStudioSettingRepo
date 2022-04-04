@@ -3,11 +3,16 @@
     <property name="created">2022-03-17T21:56:40</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-03-23T12:34:08</property>
+    <property name="modified">2022-04-04T13:52:52</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="a854a7" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
