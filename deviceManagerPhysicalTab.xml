@@ -20,10 +20,10 @@
             <value value="192.168.0.101:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-29T08:25:56.138111300Z" />
-        <name value="OnePlus ONEPLUS A5010" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <lastOnlineTime value="2022-05-13T10:02:47.362029200Z" />
+        <name value="Huawei Nexus 6P" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
