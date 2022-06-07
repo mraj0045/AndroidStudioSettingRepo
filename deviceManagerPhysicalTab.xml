@@ -114,7 +114,19 @@
             <value value="192.168.152.186:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-07T09:33:07.675134700Z" />
+        <type value="TV" />
+        <name value="Xiaomi MiTV-MOOQ0" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.106:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-07T10:39:49.538021800Z" />
         <type value="TV" />
         <name value="Xiaomi MiTV-MOOQ0" />
         <target value="Android 10.0" />
