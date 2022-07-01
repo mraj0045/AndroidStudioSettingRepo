@@ -3,8 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.kt</mask>
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.gradle</mask>
     <mask>*.XML</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
