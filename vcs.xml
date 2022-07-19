@@ -38,6 +38,10 @@
           <option name="url" value="git@bitbucket.org:mobiotics/androidapicorecommonimpl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:mobiotics/analyticsandroidsdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Workspace\Andriod\Live\libraries" />
