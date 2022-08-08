@@ -5,6 +5,29 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="GEB1TX1114330116" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Amazon AFTSSS" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="62210121HY806850CHY" />
+          </Key>
+        </key>
+        <name value="LENOVO Lenovo TB3-850F" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.51:5555" />
           </Key>
         </key>
