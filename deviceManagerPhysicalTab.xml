@@ -1,0 +1,177 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GEB1TX1114330116" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Amazon AFTSSS" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="62210121HY806850CHY" />
+          </Key>
+        </key>
+        <name value="LENOVO Lenovo TB3-850F" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.51:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4bc9b8bd" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.101:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.3:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.102:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.43.186:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiTV-MOOQ0" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.103:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiTV-MOOQ0" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.104:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="100.115.54.63:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5010" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.152.186:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiTV-MOOQ0" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.106:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiTV-MOOQ0" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.108:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Xiaomi MiTV-MOOQ0" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
