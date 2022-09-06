@@ -3,8 +3,9 @@
     <property name="created">2022-04-07T11:35:10</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-09-01T11:07:56</property>
+    <property name="modified">2022-09-06T17:51:00</property>
     <property name="originalScheme">Darcula Darker</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f7f7f7" />
