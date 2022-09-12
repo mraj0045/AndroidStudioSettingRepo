@@ -7,5 +7,6 @@
     <option name="SHOW_INPLACE_COMMENTS" value="true" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="smoothScrolling" value="false" />
   </component>
 </application>

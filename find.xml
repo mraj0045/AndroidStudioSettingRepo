@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '…/ui-search/src/main/java/com/zee5/android/search/presentation/SearchFragment.kt [android-living-room.ui-search.main]'" />
+    <option name="defaultScopeName" value="File '…/ui-search/src/main/java/com/zee5/android/search/presentation/SearchFragment.kt [android-living-room.ui-search.main]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '…/ui-search/src/main/java/com/zee5/android/search/presentation/SearchFragment.kt [android-living-room.ui-search.main]'" />
     <option name="FILE_MASK" value="*.kt" />
     <mask>*.gradle</mask>
     <mask>*.XML</mask>
