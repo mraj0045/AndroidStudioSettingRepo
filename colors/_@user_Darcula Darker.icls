@@ -3,7 +3,7 @@
     <property name="created">2022-04-07T11:35:10</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-09-08T14:51:18</property>
+    <property name="modified">2022-10-06T14:22:02</property>
     <property name="originalScheme">Darcula Darker</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -69,6 +69,32 @@
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
         <option name="FOREGROUND" value="61ff00" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_INFO">
+      <value>
+        <option name="FOREGROUND" value="6e8df5" />
+        <option name="BACKGROUND" value="305d78" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="6e8df5" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ERROR">
+      <value>
+        <option name="FOREGROUND" value="f46865" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="61ff00" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="dedede" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
