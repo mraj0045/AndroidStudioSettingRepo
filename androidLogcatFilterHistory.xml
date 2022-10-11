@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine /tophits" />
+    <option name="mostRecentlyUsed" value="package:mine tag:SearchFragment " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine /tophits" />
-        <option value="package:mine /" />
-        <option value="tophits" />
+        <option value="package:mine tag:SearchFragment " />
         <option value="package:mine" />
+        <option value="package:mine /" />
+        <option value="package:mine /tophits" />
+        <option value="tophits" />
       </list>
     </option>
   </component>
