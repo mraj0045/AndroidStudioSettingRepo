@@ -5,15 +5,15 @@
         <option value="package:mine tag:VoiceSearchController" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tophits" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tophits" />
         <option value="package:mine /tophits" />
         <option value="package:mine tag:cms-logging" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="package:mine tag:Voice" />
         <option value="package:mine  " />
         <option value="package:mine tag:SearchFragment " />
