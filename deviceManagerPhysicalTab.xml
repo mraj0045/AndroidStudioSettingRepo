@@ -256,6 +256,17 @@
         <target value="Android 5.1" />
         <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.33.104.88:5555" />
+          </Key>
+        </key>
+        <name value="SDMC JHSC200" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
